@@ -1,0 +1,4 @@
+0 angular_leafspot
+1 blossom_blight
+2 leaf_spot
+3 powdery_mildew_leaf
