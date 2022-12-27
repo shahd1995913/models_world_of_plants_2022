@@ -1,0 +1,2 @@
+0 Early_Blight
+1 Late_Blight
