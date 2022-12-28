@@ -1,0 +1,3 @@
+0 Downy mildew
+1 Gray mold
+2 Leaf scars
