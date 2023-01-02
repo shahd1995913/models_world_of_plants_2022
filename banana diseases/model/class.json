@@ -1,4 +1,5 @@
 
-{"Blight": {"id":36},
-"Common_Rust": {"id":37},
- "Gray_Leaf_Spot": {"id":38}}
+{"cardano plant disease": {"id":36},
+"pestalotiopsis": {"id":37},
+ "sigatoka": {"id":38}}
+
