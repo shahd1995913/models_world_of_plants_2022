@@ -4,7 +4,7 @@
 "Tomato_mosaic_virus": {"id":29} , 
 "Target_Spot": {"id":30} ,
 "Septoria_leaf_spot": {"id":28},
-"Leaf_Mold": {"id":29} 
+"Leaf_Mold": {"id":29},
 "blight": {"id":28},
 "Bacterial_spot": {"id":29} 
   } 
