@@ -1,10 +1,10 @@
 
-{"Two-spotted_spider_mite": {"id":27},
-"Tomato_Yellow_Leaf_Curl_Virus": {"id":28},
-"Tomato_mosaic_virus": {"id":29} , 
-"Target_Spot": {"id":30} ,
-"Septoria_leaf_spot": {"id":28},
-"Leaf_Mold": {"id":29},
-"blight": {"id":28},
-"Bacterial_spot": {"id":29} 
+{"Two-spotted_spider_mite": {"id":17},
+"Tomato_Yellow_Leaf_Curl_Virus": {"id":20},
+"Tomato_mosaic_virus": {"id":19} , 
+"Target_Spot": {"id":18} ,
+"Septoria_leaf_spot": {"id":16},
+"Leaf_Mold": {"id":14},
+"blight": {"id":13},
+"Bacterial_spot": {"id":12} 
   } 
