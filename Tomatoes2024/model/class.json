@@ -1,4 +1,4 @@
-{"Bacterial_spot": {"id":34},
+{"Bacterial_spot": {"id":106},
 "Bemisia argentifolii": {"id":22},
 "Early blight": {"id":31} , 
 "Helicoverpa armigera": {"id":22} ,
@@ -18,5 +18,5 @@
 "Tetranychus urticae": {"id":22},
 "Thrips palmi": {"id":23} , 
 "Tomato_mosaic_virus": {"id":22} ,
-"Tomato_Yellow_Leaf_Curl_Virus": {"id":37} , 
+"Tomato_Yellow_Leaf_Curl_Virus": {"id":105} , 
 "Zeugodacus cucurbitae": {"id":22}} 
