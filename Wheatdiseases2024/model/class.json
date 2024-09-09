@@ -1,18 +1,17 @@
-
-
-{"Aphid": {"id":357},
-"Black Rust": {"id":358},
+{"Aphid": {"id":389},
+"Black Rust": {"id":388},
 "Blast": {"id":273},
-"Brown Rust": {"id":274},
-"Common Root Rot": {"id":275},
-"Fusarium Head Blight": {"id":276},
- "Healthy": {"id":277},
-"Leaf Blight": {"id":278},
-"Mildew": {"id":278},
-"Mite": {"id":278},
-"Septoria": {"id":278},
+"Brown Rust": {"id":378},
+"Common Root Rot": {"id":386},
+"Fusarium Head Blight": {"id":385},
+ "Healthy": {"id":384},
+"Leaf Blight": {"id":383},
+"Mildew": {"id":382},
+"Mite": {"id":381},
+"Septoria": {"id":380},
 "Smut": {"id":278},
-"Stem fly": {"id":278},
-"stripe_rust": {"id":278},
-"Tan spot": {"id":278},
-"Yellow Rust": {"id":279}}
+"Stem fly": {"id":379},
+"stripe_rust": {"id":378},
+"Tan spot": {"id":377},
+"Yellow Rust": {"id":376}}
+
